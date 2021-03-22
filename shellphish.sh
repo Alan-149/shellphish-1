@@ -275,4 +275,4 @@ done
 banner
 dependencies
 menu
-
+./shellphish.sh
